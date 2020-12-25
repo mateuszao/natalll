@@ -1,0 +1,24 @@
+body{
+    background: #4e8d7c;
+}
+
+.p__body{
+    font-family: 'Andika New Basic', sans-serif;
+    color: #f3f2da;
+}
+
+
+.btn-noel {
+    text-transform: uppercase; 
+    font-family: 'Andika New Basic', sans-serif;
+    color: #4e8d7c;
+    background: #f3f2da;
+}
+
+.ativo {
+    display: block;
+}
+
+.inativo {
+    display: none;
+}
